@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to React Hooks",
+      "content": "React hooks revolutionize state management in functional components.",
+      "category": "Programming",
+      "tags": ["react", "javascript"]
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Basics",
+      "content": "Understanding the fundamentals of machine learning algorithms.",
+      "category": "Technology",
+      "tags": ["ai", "machine learning"]
+    },
+    {
+      "id": 3,
+      "title": "Healthy Cooking Tips",
+      "content": "Simple strategies for preparing nutritious meals at home.",
+      "category": "Lifestyle",
+      "tags": ["cooking", "health"]
+    }
+  ]
+}
